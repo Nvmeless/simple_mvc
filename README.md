@@ -1,2 +1,2 @@
 # simple_mvc
-This is a simple way to creat a mvc controlled PHP website
+This is a simple way to create a mvc controlled PHP website
