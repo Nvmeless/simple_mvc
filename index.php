@@ -44,7 +44,7 @@ session_start();
 </html>
 /**
  * Created by PhpStorm.
- * User: Nvmeless aka ElCuicui
+ * User: Nvmeless
  * Date: 15/11/2018
  * Time: 11:07
  */
